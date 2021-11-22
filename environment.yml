@@ -20,4 +20,3 @@ dependencies:
   - mamba==0.17.0
   - pydap==3.2.2
   - dask==2021.11.1
-prefix: /knight/anaconda_jan21/envs/xarray_2021
